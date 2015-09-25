@@ -1,3 +1,4 @@
+// Sidharth Baskaran
 #define RED_LED 7
 
 void setup() {
@@ -10,5 +11,5 @@ void loop() {
   digitalWrite(RED_LED, HIGH);
   delay(1000);
   digitalWrite(RED_LED, LOW);
-  delay(1000);
+  delay(1000);-
 }
